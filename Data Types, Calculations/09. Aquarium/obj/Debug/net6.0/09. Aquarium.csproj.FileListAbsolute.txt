@@ -1,0 +1,15 @@
+C:\Users\35988\Documents\Softuni\Repo\QA-Tasks\Data Types, Calculations\09. Aquarium\bin\Debug\net6.0\09. Aquarium.exe
+C:\Users\35988\Documents\Softuni\Repo\QA-Tasks\Data Types, Calculations\09. Aquarium\bin\Debug\net6.0\09. Aquarium.deps.json
+C:\Users\35988\Documents\Softuni\Repo\QA-Tasks\Data Types, Calculations\09. Aquarium\bin\Debug\net6.0\09. Aquarium.runtimeconfig.json
+C:\Users\35988\Documents\Softuni\Repo\QA-Tasks\Data Types, Calculations\09. Aquarium\bin\Debug\net6.0\09. Aquarium.dll
+C:\Users\35988\Documents\Softuni\Repo\QA-Tasks\Data Types, Calculations\09. Aquarium\bin\Debug\net6.0\09. Aquarium.pdb
+C:\Users\35988\Documents\Softuni\Repo\QA-Tasks\Data Types, Calculations\09. Aquarium\obj\Debug\net6.0\09. Aquarium.csproj.AssemblyReference.cache
+C:\Users\35988\Documents\Softuni\Repo\QA-Tasks\Data Types, Calculations\09. Aquarium\obj\Debug\net6.0\09. Aquarium.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35988\Documents\Softuni\Repo\QA-Tasks\Data Types, Calculations\09. Aquarium\obj\Debug\net6.0\09. Aquarium.AssemblyInfoInputs.cache
+C:\Users\35988\Documents\Softuni\Repo\QA-Tasks\Data Types, Calculations\09. Aquarium\obj\Debug\net6.0\09. Aquarium.AssemblyInfo.cs
+C:\Users\35988\Documents\Softuni\Repo\QA-Tasks\Data Types, Calculations\09. Aquarium\obj\Debug\net6.0\09. Aquarium.csproj.CoreCompileInputs.cache
+C:\Users\35988\Documents\Softuni\Repo\QA-Tasks\Data Types, Calculations\09. Aquarium\obj\Debug\net6.0\09. Aquarium.dll
+C:\Users\35988\Documents\Softuni\Repo\QA-Tasks\Data Types, Calculations\09. Aquarium\obj\Debug\net6.0\refint\09. Aquarium.dll
+C:\Users\35988\Documents\Softuni\Repo\QA-Tasks\Data Types, Calculations\09. Aquarium\obj\Debug\net6.0\09. Aquarium.pdb
+C:\Users\35988\Documents\Softuni\Repo\QA-Tasks\Data Types, Calculations\09. Aquarium\obj\Debug\net6.0\09. Aquarium.genruntimeconfig.cache
+C:\Users\35988\Documents\Softuni\Repo\QA-Tasks\Data Types, Calculations\09. Aquarium\obj\Debug\net6.0\ref\09. Aquarium.dll
