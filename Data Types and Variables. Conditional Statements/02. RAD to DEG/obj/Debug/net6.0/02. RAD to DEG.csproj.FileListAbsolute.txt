@@ -1,0 +1,15 @@
+C:\Users\35988\source\repos\02. RAD to DEG\bin\Debug\net6.0\02. RAD to DEG.exe
+C:\Users\35988\source\repos\02. RAD to DEG\bin\Debug\net6.0\02. RAD to DEG.deps.json
+C:\Users\35988\source\repos\02. RAD to DEG\bin\Debug\net6.0\02. RAD to DEG.runtimeconfig.json
+C:\Users\35988\source\repos\02. RAD to DEG\bin\Debug\net6.0\02. RAD to DEG.dll
+C:\Users\35988\source\repos\02. RAD to DEG\bin\Debug\net6.0\02. RAD to DEG.pdb
+C:\Users\35988\source\repos\02. RAD to DEG\obj\Debug\net6.0\02. RAD to DEG.csproj.AssemblyReference.cache
+C:\Users\35988\source\repos\02. RAD to DEG\obj\Debug\net6.0\02. RAD to DEG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35988\source\repos\02. RAD to DEG\obj\Debug\net6.0\02. RAD to DEG.AssemblyInfoInputs.cache
+C:\Users\35988\source\repos\02. RAD to DEG\obj\Debug\net6.0\02. RAD to DEG.AssemblyInfo.cs
+C:\Users\35988\source\repos\02. RAD to DEG\obj\Debug\net6.0\02. RAD to DEG.csproj.CoreCompileInputs.cache
+C:\Users\35988\source\repos\02. RAD to DEG\obj\Debug\net6.0\02. RAD to DEG.dll
+C:\Users\35988\source\repos\02. RAD to DEG\obj\Debug\net6.0\refint\02. RAD to DEG.dll
+C:\Users\35988\source\repos\02. RAD to DEG\obj\Debug\net6.0\02. RAD to DEG.pdb
+C:\Users\35988\source\repos\02. RAD to DEG\obj\Debug\net6.0\02. RAD to DEG.genruntimeconfig.cache
+C:\Users\35988\source\repos\02. RAD to DEG\obj\Debug\net6.0\ref\02. RAD to DEG.dll

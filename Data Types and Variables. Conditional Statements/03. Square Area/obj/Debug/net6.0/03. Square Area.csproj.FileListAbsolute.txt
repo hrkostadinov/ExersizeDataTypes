@@ -1,0 +1,15 @@
+C:\Users\35988\source\repos\03. Square Area\bin\Debug\net6.0\03. Square Area.exe
+C:\Users\35988\source\repos\03. Square Area\bin\Debug\net6.0\03. Square Area.deps.json
+C:\Users\35988\source\repos\03. Square Area\bin\Debug\net6.0\03. Square Area.runtimeconfig.json
+C:\Users\35988\source\repos\03. Square Area\bin\Debug\net6.0\03. Square Area.dll
+C:\Users\35988\source\repos\03. Square Area\bin\Debug\net6.0\03. Square Area.pdb
+C:\Users\35988\source\repos\03. Square Area\obj\Debug\net6.0\03. Square Area.csproj.AssemblyReference.cache
+C:\Users\35988\source\repos\03. Square Area\obj\Debug\net6.0\03. Square Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35988\source\repos\03. Square Area\obj\Debug\net6.0\03. Square Area.AssemblyInfoInputs.cache
+C:\Users\35988\source\repos\03. Square Area\obj\Debug\net6.0\03. Square Area.AssemblyInfo.cs
+C:\Users\35988\source\repos\03. Square Area\obj\Debug\net6.0\03. Square Area.csproj.CoreCompileInputs.cache
+C:\Users\35988\source\repos\03. Square Area\obj\Debug\net6.0\03. Square Area.dll
+C:\Users\35988\source\repos\03. Square Area\obj\Debug\net6.0\refint\03. Square Area.dll
+C:\Users\35988\source\repos\03. Square Area\obj\Debug\net6.0\03. Square Area.pdb
+C:\Users\35988\source\repos\03. Square Area\obj\Debug\net6.0\03. Square Area.genruntimeconfig.cache
+C:\Users\35988\source\repos\03. Square Area\obj\Debug\net6.0\ref\03. Square Area.dll

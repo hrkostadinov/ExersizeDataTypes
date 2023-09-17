@@ -1,0 +1,15 @@
+C:\Users\35988\source\repos\05. Teaching Materials\bin\Debug\net6.0\05. Teaching Materials.exe
+C:\Users\35988\source\repos\05. Teaching Materials\bin\Debug\net6.0\05. Teaching Materials.deps.json
+C:\Users\35988\source\repos\05. Teaching Materials\bin\Debug\net6.0\05. Teaching Materials.runtimeconfig.json
+C:\Users\35988\source\repos\05. Teaching Materials\bin\Debug\net6.0\05. Teaching Materials.dll
+C:\Users\35988\source\repos\05. Teaching Materials\bin\Debug\net6.0\05. Teaching Materials.pdb
+C:\Users\35988\source\repos\05. Teaching Materials\obj\Debug\net6.0\05. Teaching Materials.csproj.AssemblyReference.cache
+C:\Users\35988\source\repos\05. Teaching Materials\obj\Debug\net6.0\05. Teaching Materials.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35988\source\repos\05. Teaching Materials\obj\Debug\net6.0\05. Teaching Materials.AssemblyInfoInputs.cache
+C:\Users\35988\source\repos\05. Teaching Materials\obj\Debug\net6.0\05. Teaching Materials.AssemblyInfo.cs
+C:\Users\35988\source\repos\05. Teaching Materials\obj\Debug\net6.0\05. Teaching Materials.csproj.CoreCompileInputs.cache
+C:\Users\35988\source\repos\05. Teaching Materials\obj\Debug\net6.0\05. Teaching Materials.dll
+C:\Users\35988\source\repos\05. Teaching Materials\obj\Debug\net6.0\refint\05. Teaching Materials.dll
+C:\Users\35988\source\repos\05. Teaching Materials\obj\Debug\net6.0\05. Teaching Materials.pdb
+C:\Users\35988\source\repos\05. Teaching Materials\obj\Debug\net6.0\05. Teaching Materials.genruntimeconfig.cache
+C:\Users\35988\source\repos\05. Teaching Materials\obj\Debug\net6.0\ref\05. Teaching Materials.dll

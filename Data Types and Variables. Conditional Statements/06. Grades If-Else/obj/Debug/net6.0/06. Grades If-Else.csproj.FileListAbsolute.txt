@@ -1,0 +1,15 @@
+C:\Users\35988\source\repos\06. Grades If-Else\bin\Debug\net6.0\06. Grades If-Else.exe
+C:\Users\35988\source\repos\06. Grades If-Else\bin\Debug\net6.0\06. Grades If-Else.deps.json
+C:\Users\35988\source\repos\06. Grades If-Else\bin\Debug\net6.0\06. Grades If-Else.runtimeconfig.json
+C:\Users\35988\source\repos\06. Grades If-Else\bin\Debug\net6.0\06. Grades If-Else.dll
+C:\Users\35988\source\repos\06. Grades If-Else\bin\Debug\net6.0\06. Grades If-Else.pdb
+C:\Users\35988\source\repos\06. Grades If-Else\obj\Debug\net6.0\06. Grades If-Else.csproj.AssemblyReference.cache
+C:\Users\35988\source\repos\06. Grades If-Else\obj\Debug\net6.0\06. Grades If-Else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35988\source\repos\06. Grades If-Else\obj\Debug\net6.0\06. Grades If-Else.AssemblyInfoInputs.cache
+C:\Users\35988\source\repos\06. Grades If-Else\obj\Debug\net6.0\06. Grades If-Else.AssemblyInfo.cs
+C:\Users\35988\source\repos\06. Grades If-Else\obj\Debug\net6.0\06. Grades If-Else.csproj.CoreCompileInputs.cache
+C:\Users\35988\source\repos\06. Grades If-Else\obj\Debug\net6.0\06. Grades If-Else.dll
+C:\Users\35988\source\repos\06. Grades If-Else\obj\Debug\net6.0\refint\06. Grades If-Else.dll
+C:\Users\35988\source\repos\06. Grades If-Else\obj\Debug\net6.0\06. Grades If-Else.pdb
+C:\Users\35988\source\repos\06. Grades If-Else\obj\Debug\net6.0\06. Grades If-Else.genruntimeconfig.cache
+C:\Users\35988\source\repos\06. Grades If-Else\obj\Debug\net6.0\ref\06. Grades If-Else.dll

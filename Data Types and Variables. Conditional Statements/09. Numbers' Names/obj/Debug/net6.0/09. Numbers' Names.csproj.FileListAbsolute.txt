@@ -1,0 +1,15 @@
+C:\Users\35988\source\repos\09. Numbers' Names\bin\Debug\net6.0\09. Numbers' Names.exe
+C:\Users\35988\source\repos\09. Numbers' Names\bin\Debug\net6.0\09. Numbers' Names.deps.json
+C:\Users\35988\source\repos\09. Numbers' Names\bin\Debug\net6.0\09. Numbers' Names.runtimeconfig.json
+C:\Users\35988\source\repos\09. Numbers' Names\bin\Debug\net6.0\09. Numbers' Names.dll
+C:\Users\35988\source\repos\09. Numbers' Names\bin\Debug\net6.0\09. Numbers' Names.pdb
+C:\Users\35988\source\repos\09. Numbers' Names\obj\Debug\net6.0\09. Numbers' Names.csproj.AssemblyReference.cache
+C:\Users\35988\source\repos\09. Numbers' Names\obj\Debug\net6.0\09. Numbers' Names.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35988\source\repos\09. Numbers' Names\obj\Debug\net6.0\09. Numbers' Names.AssemblyInfoInputs.cache
+C:\Users\35988\source\repos\09. Numbers' Names\obj\Debug\net6.0\09. Numbers' Names.AssemblyInfo.cs
+C:\Users\35988\source\repos\09. Numbers' Names\obj\Debug\net6.0\09. Numbers' Names.csproj.CoreCompileInputs.cache
+C:\Users\35988\source\repos\09. Numbers' Names\obj\Debug\net6.0\09. Numbers' Names.dll
+C:\Users\35988\source\repos\09. Numbers' Names\obj\Debug\net6.0\refint\09. Numbers' Names.dll
+C:\Users\35988\source\repos\09. Numbers' Names\obj\Debug\net6.0\09. Numbers' Names.pdb
+C:\Users\35988\source\repos\09. Numbers' Names\obj\Debug\net6.0\09. Numbers' Names.genruntimeconfig.cache
+C:\Users\35988\source\repos\09. Numbers' Names\obj\Debug\net6.0\ref\09. Numbers' Names.dll

@@ -1,0 +1,15 @@
+C:\Users\35988\source\repos\01.ConverterUSDtoBGN\bin\Debug\net6.0\01.ConverterUSDtoBGN.exe
+C:\Users\35988\source\repos\01.ConverterUSDtoBGN\bin\Debug\net6.0\01.ConverterUSDtoBGN.deps.json
+C:\Users\35988\source\repos\01.ConverterUSDtoBGN\bin\Debug\net6.0\01.ConverterUSDtoBGN.runtimeconfig.json
+C:\Users\35988\source\repos\01.ConverterUSDtoBGN\bin\Debug\net6.0\01.ConverterUSDtoBGN.dll
+C:\Users\35988\source\repos\01.ConverterUSDtoBGN\bin\Debug\net6.0\01.ConverterUSDtoBGN.pdb
+C:\Users\35988\source\repos\01.ConverterUSDtoBGN\obj\Debug\net6.0\01.ConverterUSDtoBGN.csproj.AssemblyReference.cache
+C:\Users\35988\source\repos\01.ConverterUSDtoBGN\obj\Debug\net6.0\01.ConverterUSDtoBGN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35988\source\repos\01.ConverterUSDtoBGN\obj\Debug\net6.0\01.ConverterUSDtoBGN.AssemblyInfoInputs.cache
+C:\Users\35988\source\repos\01.ConverterUSDtoBGN\obj\Debug\net6.0\01.ConverterUSDtoBGN.AssemblyInfo.cs
+C:\Users\35988\source\repos\01.ConverterUSDtoBGN\obj\Debug\net6.0\01.ConverterUSDtoBGN.csproj.CoreCompileInputs.cache
+C:\Users\35988\source\repos\01.ConverterUSDtoBGN\obj\Debug\net6.0\01.ConverterUSDtoBGN.dll
+C:\Users\35988\source\repos\01.ConverterUSDtoBGN\obj\Debug\net6.0\refint\01.ConverterUSDtoBGN.dll
+C:\Users\35988\source\repos\01.ConverterUSDtoBGN\obj\Debug\net6.0\01.ConverterUSDtoBGN.pdb
+C:\Users\35988\source\repos\01.ConverterUSDtoBGN\obj\Debug\net6.0\01.ConverterUSDtoBGN.genruntimeconfig.cache
+C:\Users\35988\source\repos\01.ConverterUSDtoBGN\obj\Debug\net6.0\ref\01.ConverterUSDtoBGN.dll

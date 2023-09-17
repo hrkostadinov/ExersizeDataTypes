@@ -1,0 +1,15 @@
+C:\Users\35988\source\repos\05. Excellent Grade\bin\Debug\net6.0\05. Excellent Grade.exe
+C:\Users\35988\source\repos\05. Excellent Grade\bin\Debug\net6.0\05. Excellent Grade.deps.json
+C:\Users\35988\source\repos\05. Excellent Grade\bin\Debug\net6.0\05. Excellent Grade.runtimeconfig.json
+C:\Users\35988\source\repos\05. Excellent Grade\bin\Debug\net6.0\05. Excellent Grade.dll
+C:\Users\35988\source\repos\05. Excellent Grade\bin\Debug\net6.0\05. Excellent Grade.pdb
+C:\Users\35988\source\repos\05. Excellent Grade\obj\Debug\net6.0\05. Excellent Grade.csproj.AssemblyReference.cache
+C:\Users\35988\source\repos\05. Excellent Grade\obj\Debug\net6.0\05. Excellent Grade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35988\source\repos\05. Excellent Grade\obj\Debug\net6.0\05. Excellent Grade.AssemblyInfoInputs.cache
+C:\Users\35988\source\repos\05. Excellent Grade\obj\Debug\net6.0\05. Excellent Grade.AssemblyInfo.cs
+C:\Users\35988\source\repos\05. Excellent Grade\obj\Debug\net6.0\05. Excellent Grade.csproj.CoreCompileInputs.cache
+C:\Users\35988\source\repos\05. Excellent Grade\obj\Debug\net6.0\05. Excellent Grade.dll
+C:\Users\35988\source\repos\05. Excellent Grade\obj\Debug\net6.0\refint\05. Excellent Grade.dll
+C:\Users\35988\source\repos\05. Excellent Grade\obj\Debug\net6.0\05. Excellent Grade.pdb
+C:\Users\35988\source\repos\05. Excellent Grade\obj\Debug\net6.0\05. Excellent Grade.genruntimeconfig.cache
+C:\Users\35988\source\repos\05. Excellent Grade\obj\Debug\net6.0\ref\05. Excellent Grade.dll

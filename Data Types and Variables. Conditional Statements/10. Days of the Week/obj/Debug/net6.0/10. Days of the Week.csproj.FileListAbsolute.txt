@@ -1,0 +1,15 @@
+C:\Users\35988\source\repos\10. Days of the Week\bin\Debug\net6.0\10. Days of the Week.exe
+C:\Users\35988\source\repos\10. Days of the Week\bin\Debug\net6.0\10. Days of the Week.deps.json
+C:\Users\35988\source\repos\10. Days of the Week\bin\Debug\net6.0\10. Days of the Week.runtimeconfig.json
+C:\Users\35988\source\repos\10. Days of the Week\bin\Debug\net6.0\10. Days of the Week.dll
+C:\Users\35988\source\repos\10. Days of the Week\bin\Debug\net6.0\10. Days of the Week.pdb
+C:\Users\35988\source\repos\10. Days of the Week\obj\Debug\net6.0\10. Days of the Week.csproj.AssemblyReference.cache
+C:\Users\35988\source\repos\10. Days of the Week\obj\Debug\net6.0\10. Days of the Week.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35988\source\repos\10. Days of the Week\obj\Debug\net6.0\10. Days of the Week.AssemblyInfoInputs.cache
+C:\Users\35988\source\repos\10. Days of the Week\obj\Debug\net6.0\10. Days of the Week.AssemblyInfo.cs
+C:\Users\35988\source\repos\10. Days of the Week\obj\Debug\net6.0\10. Days of the Week.csproj.CoreCompileInputs.cache
+C:\Users\35988\source\repos\10. Days of the Week\obj\Debug\net6.0\10. Days of the Week.dll
+C:\Users\35988\source\repos\10. Days of the Week\obj\Debug\net6.0\refint\10. Days of the Week.dll
+C:\Users\35988\source\repos\10. Days of the Week\obj\Debug\net6.0\10. Days of the Week.pdb
+C:\Users\35988\source\repos\10. Days of the Week\obj\Debug\net6.0\10. Days of the Week.genruntimeconfig.cache
+C:\Users\35988\source\repos\10. Days of the Week\obj\Debug\net6.0\ref\10. Days of the Week.dll

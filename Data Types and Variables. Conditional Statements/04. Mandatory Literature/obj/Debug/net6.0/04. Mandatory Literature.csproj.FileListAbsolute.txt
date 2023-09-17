@@ -1,0 +1,15 @@
+C:\Users\35988\source\repos\04. Mandatory Literature\bin\Debug\net6.0\04. Mandatory Literature.exe
+C:\Users\35988\source\repos\04. Mandatory Literature\bin\Debug\net6.0\04. Mandatory Literature.deps.json
+C:\Users\35988\source\repos\04. Mandatory Literature\bin\Debug\net6.0\04. Mandatory Literature.runtimeconfig.json
+C:\Users\35988\source\repos\04. Mandatory Literature\bin\Debug\net6.0\04. Mandatory Literature.dll
+C:\Users\35988\source\repos\04. Mandatory Literature\bin\Debug\net6.0\04. Mandatory Literature.pdb
+C:\Users\35988\source\repos\04. Mandatory Literature\obj\Debug\net6.0\04. Mandatory Literature.csproj.AssemblyReference.cache
+C:\Users\35988\source\repos\04. Mandatory Literature\obj\Debug\net6.0\04. Mandatory Literature.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35988\source\repos\04. Mandatory Literature\obj\Debug\net6.0\04. Mandatory Literature.AssemblyInfoInputs.cache
+C:\Users\35988\source\repos\04. Mandatory Literature\obj\Debug\net6.0\04. Mandatory Literature.AssemblyInfo.cs
+C:\Users\35988\source\repos\04. Mandatory Literature\obj\Debug\net6.0\04. Mandatory Literature.csproj.CoreCompileInputs.cache
+C:\Users\35988\source\repos\04. Mandatory Literature\obj\Debug\net6.0\04. Mandatory Literature.dll
+C:\Users\35988\source\repos\04. Mandatory Literature\obj\Debug\net6.0\refint\04. Mandatory Literature.dll
+C:\Users\35988\source\repos\04. Mandatory Literature\obj\Debug\net6.0\04. Mandatory Literature.pdb
+C:\Users\35988\source\repos\04. Mandatory Literature\obj\Debug\net6.0\04. Mandatory Literature.genruntimeconfig.cache
+C:\Users\35988\source\repos\04. Mandatory Literature\obj\Debug\net6.0\ref\04. Mandatory Literature.dll

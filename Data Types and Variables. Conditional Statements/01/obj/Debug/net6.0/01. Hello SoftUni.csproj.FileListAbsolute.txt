@@ -1,0 +1,15 @@
+C:\Users\35988\source\repos\01\bin\Debug\net6.0\01. Hello SoftUni.exe
+C:\Users\35988\source\repos\01\bin\Debug\net6.0\01. Hello SoftUni.deps.json
+C:\Users\35988\source\repos\01\bin\Debug\net6.0\01. Hello SoftUni.runtimeconfig.json
+C:\Users\35988\source\repos\01\bin\Debug\net6.0\01. Hello SoftUni.dll
+C:\Users\35988\source\repos\01\bin\Debug\net6.0\01. Hello SoftUni.pdb
+C:\Users\35988\source\repos\01\obj\Debug\net6.0\01. Hello SoftUni.csproj.AssemblyReference.cache
+C:\Users\35988\source\repos\01\obj\Debug\net6.0\01. Hello SoftUni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35988\source\repos\01\obj\Debug\net6.0\01. Hello SoftUni.AssemblyInfoInputs.cache
+C:\Users\35988\source\repos\01\obj\Debug\net6.0\01. Hello SoftUni.AssemblyInfo.cs
+C:\Users\35988\source\repos\01\obj\Debug\net6.0\01. Hello SoftUni.csproj.CoreCompileInputs.cache
+C:\Users\35988\source\repos\01\obj\Debug\net6.0\01. Hello SoftUni.dll
+C:\Users\35988\source\repos\01\obj\Debug\net6.0\refint\01. Hello SoftUni.dll
+C:\Users\35988\source\repos\01\obj\Debug\net6.0\01. Hello SoftUni.pdb
+C:\Users\35988\source\repos\01\obj\Debug\net6.0\01. Hello SoftUni.genruntimeconfig.cache
+C:\Users\35988\source\repos\01\obj\Debug\net6.0\ref\01. Hello SoftUni.dll
