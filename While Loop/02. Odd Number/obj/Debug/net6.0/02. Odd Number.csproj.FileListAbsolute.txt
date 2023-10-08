@@ -1,0 +1,15 @@
+C:\Users\35988\Documents\Softuni\Repo\QA-Tasks\While Loop\02. Odd Number\bin\Debug\net6.0\02. Odd Number.exe
+C:\Users\35988\Documents\Softuni\Repo\QA-Tasks\While Loop\02. Odd Number\bin\Debug\net6.0\02. Odd Number.deps.json
+C:\Users\35988\Documents\Softuni\Repo\QA-Tasks\While Loop\02. Odd Number\bin\Debug\net6.0\02. Odd Number.runtimeconfig.json
+C:\Users\35988\Documents\Softuni\Repo\QA-Tasks\While Loop\02. Odd Number\bin\Debug\net6.0\02. Odd Number.dll
+C:\Users\35988\Documents\Softuni\Repo\QA-Tasks\While Loop\02. Odd Number\bin\Debug\net6.0\02. Odd Number.pdb
+C:\Users\35988\Documents\Softuni\Repo\QA-Tasks\While Loop\02. Odd Number\obj\Debug\net6.0\02. Odd Number.csproj.AssemblyReference.cache
+C:\Users\35988\Documents\Softuni\Repo\QA-Tasks\While Loop\02. Odd Number\obj\Debug\net6.0\02. Odd Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35988\Documents\Softuni\Repo\QA-Tasks\While Loop\02. Odd Number\obj\Debug\net6.0\02. Odd Number.AssemblyInfoInputs.cache
+C:\Users\35988\Documents\Softuni\Repo\QA-Tasks\While Loop\02. Odd Number\obj\Debug\net6.0\02. Odd Number.AssemblyInfo.cs
+C:\Users\35988\Documents\Softuni\Repo\QA-Tasks\While Loop\02. Odd Number\obj\Debug\net6.0\02. Odd Number.csproj.CoreCompileInputs.cache
+C:\Users\35988\Documents\Softuni\Repo\QA-Tasks\While Loop\02. Odd Number\obj\Debug\net6.0\02. Odd Number.dll
+C:\Users\35988\Documents\Softuni\Repo\QA-Tasks\While Loop\02. Odd Number\obj\Debug\net6.0\refint\02. Odd Number.dll
+C:\Users\35988\Documents\Softuni\Repo\QA-Tasks\While Loop\02. Odd Number\obj\Debug\net6.0\02. Odd Number.pdb
+C:\Users\35988\Documents\Softuni\Repo\QA-Tasks\While Loop\02. Odd Number\obj\Debug\net6.0\02. Odd Number.genruntimeconfig.cache
+C:\Users\35988\Documents\Softuni\Repo\QA-Tasks\While Loop\02. Odd Number\obj\Debug\net6.0\ref\02. Odd Number.dll
