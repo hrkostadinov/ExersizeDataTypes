@@ -1,0 +1,15 @@
+C:\Users\35988\Documents\Softuni\Repo\QA-Tasks\Loops - Exercise\05. Division to 2, 3 and 4\bin\Debug\net6.0\05. Division to 2, 3 and 4.exe
+C:\Users\35988\Documents\Softuni\Repo\QA-Tasks\Loops - Exercise\05. Division to 2, 3 and 4\bin\Debug\net6.0\05. Division to 2, 3 and 4.deps.json
+C:\Users\35988\Documents\Softuni\Repo\QA-Tasks\Loops - Exercise\05. Division to 2, 3 and 4\bin\Debug\net6.0\05. Division to 2, 3 and 4.runtimeconfig.json
+C:\Users\35988\Documents\Softuni\Repo\QA-Tasks\Loops - Exercise\05. Division to 2, 3 and 4\bin\Debug\net6.0\05. Division to 2, 3 and 4.dll
+C:\Users\35988\Documents\Softuni\Repo\QA-Tasks\Loops - Exercise\05. Division to 2, 3 and 4\bin\Debug\net6.0\05. Division to 2, 3 and 4.pdb
+C:\Users\35988\Documents\Softuni\Repo\QA-Tasks\Loops - Exercise\05. Division to 2, 3 and 4\obj\Debug\net6.0\05. Division to 2, 3 and 4.csproj.AssemblyReference.cache
+C:\Users\35988\Documents\Softuni\Repo\QA-Tasks\Loops - Exercise\05. Division to 2, 3 and 4\obj\Debug\net6.0\05. Division to 2, 3 and 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35988\Documents\Softuni\Repo\QA-Tasks\Loops - Exercise\05. Division to 2, 3 and 4\obj\Debug\net6.0\05. Division to 2, 3 and 4.AssemblyInfoInputs.cache
+C:\Users\35988\Documents\Softuni\Repo\QA-Tasks\Loops - Exercise\05. Division to 2, 3 and 4\obj\Debug\net6.0\05. Division to 2, 3 and 4.AssemblyInfo.cs
+C:\Users\35988\Documents\Softuni\Repo\QA-Tasks\Loops - Exercise\05. Division to 2, 3 and 4\obj\Debug\net6.0\05. Division to 2, 3 and 4.csproj.CoreCompileInputs.cache
+C:\Users\35988\Documents\Softuni\Repo\QA-Tasks\Loops - Exercise\05. Division to 2, 3 and 4\obj\Debug\net6.0\05. Division to 2, 3 and 4.dll
+C:\Users\35988\Documents\Softuni\Repo\QA-Tasks\Loops - Exercise\05. Division to 2, 3 and 4\obj\Debug\net6.0\refint\05. Division to 2, 3 and 4.dll
+C:\Users\35988\Documents\Softuni\Repo\QA-Tasks\Loops - Exercise\05. Division to 2, 3 and 4\obj\Debug\net6.0\05. Division to 2, 3 and 4.pdb
+C:\Users\35988\Documents\Softuni\Repo\QA-Tasks\Loops - Exercise\05. Division to 2, 3 and 4\obj\Debug\net6.0\05. Division to 2, 3 and 4.genruntimeconfig.cache
+C:\Users\35988\Documents\Softuni\Repo\QA-Tasks\Loops - Exercise\05. Division to 2, 3 and 4\obj\Debug\net6.0\ref\05. Division to 2, 3 and 4.dll
