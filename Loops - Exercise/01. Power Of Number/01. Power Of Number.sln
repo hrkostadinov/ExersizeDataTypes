@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Half Sum Element", "02. Half Sum Element.csproj", "{7EF44594-4656-416A-BCB9-32256B34B17D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Power Of Number", "01. Power Of Number.csproj", "{A591E930-6609-4DB1-BE5D-ABE706077594}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7EF44594-4656-416A-BCB9-32256B34B17D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7EF44594-4656-416A-BCB9-32256B34B17D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7EF44594-4656-416A-BCB9-32256B34B17D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7EF44594-4656-416A-BCB9-32256B34B17D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A591E930-6609-4DB1-BE5D-ABE706077594}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A591E930-6609-4DB1-BE5D-ABE706077594}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A591E930-6609-4DB1-BE5D-ABE706077594}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A591E930-6609-4DB1-BE5D-ABE706077594}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {2F305CEA-4EA0-4C2D-8A3F-0FEE4A60F7B7}
+		SolutionGuid = {F9B5BD4E-4E17-4466-A442-A1EBCE4A84A1}
 	EndGlobalSection
 EndGlobal
