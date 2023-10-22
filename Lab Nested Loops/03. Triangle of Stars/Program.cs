@@ -6,10 +6,13 @@
         {
             int size = int.Parse(Console.ReadLine());
 
-            for (int i = 1; i <= size; i++)
+            for (int row = 1; row <= size; row++)
             {
-                for ()
-               
+                for (int column = 1; column <= row; column++)
+                {
+                    Console.Write("*");
+                }
+                Console.WriteLine();
             }
         }    
     }
